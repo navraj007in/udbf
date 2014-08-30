@@ -1,0 +1,12 @@
+C:\Users\codegen\Documents\Visual Studio 2010\Projects\UDBF\UDBF\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\codegen\Documents\Visual Studio 2010\Projects\UDBF\UDBF\obj\Debug\UDBF.Resources.resources
+C:\Users\codegen\Documents\Visual Studio 2010\Projects\UDBF\UDBF\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\codegen\Documents\Visual Studio 2010\Projects\UDBF\UDBF\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\codegen\Documents\Visual Studio 2010\Projects\UDBF\UDBF\bin\Debug\UDBF.dll
+C:\Users\codegen\Documents\Visual Studio 2010\Projects\UDBF\UDBF\bin\Debug\UDBF.pdb
+C:\Users\codegen\Documents\Visual Studio 2010\Projects\UDBF\UDBF\bin\Debug\UDBF.xml
+C:\Users\codegen\Documents\Visual Studio 2010\Projects\UDBF\UDBF\bin\Debug\MySql.Data.dll
+C:\Users\codegen\Documents\Visual Studio 2010\Projects\UDBF\UDBF\bin\Debug\System.Data.SQLite.dll
+C:\Users\codegen\Documents\Visual Studio 2010\Projects\UDBF\UDBF\obj\Debug\UDBF.dll
+C:\Users\codegen\Documents\Visual Studio 2010\Projects\UDBF\UDBF\obj\Debug\UDBF.xml
+C:\Users\codegen\Documents\Visual Studio 2010\Projects\UDBF\UDBF\obj\Debug\UDBF.pdb
